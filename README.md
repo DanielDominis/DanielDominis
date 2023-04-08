@@ -2,6 +2,8 @@
 
 ![Daniel Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldominis&show_icons=true&theme=merko)
 
+[![Linguegens](https://github-readme-stats.vercel.app/api/top-langs/?username=danieldominis&layout=compact)](https://github.com/danieldominis/github-readme-stats)
+
 
 ### Tecnologias que uso no dia a dia:
 <div>
