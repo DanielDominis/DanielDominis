@@ -1,7 +1,7 @@
-### Hi there 👋
-### Olá! Eu sou o Daniel Rodrigues ✋
+### Olá, Eu sou o Daniel Rodrigues ✋
 
 ![Daniel Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldominis&show_icons=true&theme=merko)
+
 
 ### Tecnologias que uso no dia a dia:
 <div>
